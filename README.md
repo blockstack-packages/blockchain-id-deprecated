@@ -1,4 +1,8 @@
-# Blockstack
+# [Blockstack](http://blockstack.org)
+Blockstack.The Open Source Blockchain Community
+
+[![Slack](http://slack.blockstack.org/badge.svg)](http://slack.blockstack.org/)
+
 
 Blockstack is shorthand for "the blockchain stack". It is a collection of protocols and applications that can be used for building blockchain applications.
 
